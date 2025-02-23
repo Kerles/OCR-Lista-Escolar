@@ -30,7 +30,9 @@ OCR-Lista-Escolar/
 
 Abaixo está a imagem da lista escolar que foi utilizada para a extração de texto:
 
-![Lista Escolar](../input/Lista-de-Material.png)
+
+<img src="input/Lista-de-Material.png" alt="Lista Escolar" width="500" />
+
 
 ## Código Python
 
@@ -38,7 +40,7 @@ O código Python utilizado para realizar a extração de texto da imagem está e
 
 ## Resultado da Extração
 
-Após a execução do AWS Textract, o texto extraído da imagem foi salvo no arquivo `terminal.md`. O conteúdo do arquivo é o seguinte:
+Após a execução do AWS Textract, o texto extraído da imagem foi salvo no arquivo `terminal.md`. 
 
 Resultado no Terminal
 Após a execução do código, o resultado no terminal foi:
